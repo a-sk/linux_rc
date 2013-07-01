@@ -1,0 +1,14 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/awesome.vcsh
+!/.config/mr/available.d/mr.vcsh
+!/.config/mr/available.d/vcsh_hooks.vcsh
+!/.config/mr/available.d/vim.vcsh
+!/.config/mr/config.d
+!/.config/mr/config.d/awesome.vcsh
+!/.config/mr/config.d/mr.vcsh
+!/.config/mr/config.d/vcsh_hooks.vcsh
+!/.config/mr/config.d/vim.vcsh
+!/.mrconfig
