@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vcsh_hooks.git]
+checkout = vcsh clone git@github.com:a-sk/vcsh_hooks.git vcsh_hooks
